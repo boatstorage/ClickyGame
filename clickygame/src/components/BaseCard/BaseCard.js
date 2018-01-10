@@ -1,5 +1,5 @@
 import React from "react";
-import Scores from "../Scores";
+// import Scores from "../Scores";
 import "./BaseCard.css";
 
 
