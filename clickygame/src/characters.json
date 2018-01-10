@@ -1,0 +1,75 @@
+[
+	{
+		"id": 1, 
+		"name": "Homer", 
+		"image": "http://cdn.skim.gs/images/homer-simpson-doughnuts/what-homer-simpson-taught-us-about-doughnuts"
+
+	}, 
+	{
+		"id": 2, 
+		"name": "Marge", 
+		"image": "https://static.comicvine.com/uploads/square_small/11/114183/5147887-margesimpson.png"
+
+	},
+	{
+		"id": 3, 
+		"name": "Bart", 
+		"image": "https://static.comicvine.com/uploads/square_small/11/114183/5147868-bart_simpson.png"
+
+	},
+	{
+		"id": 4, 
+		"name": "Lisa", 
+		"image": "http://i.imgur.com/4LClmI1.png"
+
+	},
+	{
+		"id": 5, 
+		"name": "Smithers", 
+		"image": "http://z1035.com/wp-content/uploads/2016/04/smithers.jpg"
+
+	},
+	{
+		"id": 6, 
+		"name": "Moe", 
+		"image": "https://pbs.twimg.com/profile_images/94930361/moe.png"
+
+	},
+	{
+		"id": 7, 
+		"name": "Flanders", 
+		"image": "http://d.christiantoday.com/en/full/29769/ned-flanders.jpg?w=640&h=360"
+
+	},
+	{
+		"id": 8, 
+		"name": "Milhouse", 
+		"image": "http://photos1.blogger.com/blogger/2932/510/400/milhouse_smiling.gif"
+
+	},
+	{
+		"id": 9, 
+		"name": "Krusty", 
+		"image": "https://img.discogs.com/2nmTFS0lGqpM8O3z18xYogDN0h4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-1770044-1335826745.png.jpg"
+
+	},
+	{
+		"id": 10, 
+		"name": "Sideshow Bob", 
+		"image": "https://s-media-cache-ak0.pinimg.com/originals/8e/a1/2b/8ea12bd79870a03994fbf65f63baaa92.jpg"
+
+	},
+	{
+		"id": 11, 
+		"name": "Mr.Burns", 
+		"image": "https://img.discogs.com/XNThI__0oIHFCdSpxADSDf22WLE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-1770041-1273643715.jpeg.jpg"
+
+	},
+	{
+		"id": 12, 
+		"name": "Nelson", 
+		"image": "http://images6.fanpop.com/image/photos/36300000/Nelson-Muntz-image-nelson-muntz-36388753-1000-1000.png"
+
+	}
+
+]
