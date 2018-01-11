@@ -60,24 +60,7 @@ class App extends Component {
 	render() {
 		return (
 			<div> 
-				<Navbar
-					score={this.state.score}
-					topscore={this.state.topscore}
-					message={this.state.message}
-				/>
-				<Header />
-				<CardContainer>
-					{characterIdArray.map(character => (
-						<BaseCard 
-							handleIncrementScore={this.handleIncrementScore}
-							handleIncrementTopscore={this.handleIncrementTopscore}
-							id={character.id}
-							image={character.image}
-							name={character.name}
-
-						/>
-							))}
-				</CardContainer>
+				<h1> click </h1>
 		
 			</div>
 			);
@@ -85,4 +68,23 @@ class App extends Component {
 }
 
 export default App;
+
+// <Navbar
+// 					score={this.state.score}
+// 					topscore={this.state.topscore}
+// 					message={this.state.message}
+// 				/>
+// 				<Header />
+// 				<CardContainer>
+// 					{characterIdArray.map(character => (
+// 						<BaseCard 
+// 							handleIncrementScore={this.handleIncrementScore}
+// 							handleIncrementTopscore={this.handleIncrementTopscore}
+// 							id={character.id}
+// 							image={character.image}
+// 							name={character.name}
+
+// 						/>
+// 							))}
+// 				</CardContainer>
 
